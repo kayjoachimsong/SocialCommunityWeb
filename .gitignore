@@ -1,0 +1,17 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/.vs
+/packages
+/CommonLib/obj
+/CommonLib/bin
+/SCBizLib/obj
+/SCBizLib/bin
+/SCDataLib/obj
+/SCDataLib/bin
+/SCLibTests/obj
+/SCLibTests/bin
+/SocialCommunityWeb/bin
+/SocialCommunityWeb/obj
+*.user
